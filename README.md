@@ -26,7 +26,7 @@
 </p>
 
 <p align="center">
-<img src="https://github.com/prataennaimjoi/Hi-there/blob/main/assets/line.gif" width=640>
+<img src="https://github.com/prataennaimjoi/Hi-there/blob/main/%E0%B8%AA%E0%B8%A7%E0%B8%B1%E0%B8%AA%E0%B8%94%E0%B8%B5/line.gif" width=640>
 </p>
 
 
